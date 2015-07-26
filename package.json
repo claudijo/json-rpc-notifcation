@@ -1,0 +1,34 @@
+{
+  "name": "json-rpc-notification",
+  "version": "1.0.0",
+  "description": "JSON RPC 2.0 notification object constructor.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --check-leaks --reporter spec --bail --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudijo/json-rpc-notification.git"
+  },
+  "keywords": [
+    "json",
+    "rpc",
+    "notification"
+  ],
+  "author": "Claudijo Borovic <hello@claudijo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudijo/json-rpc-notification/issues"
+  },
+  "homepage": "https://github.com/claudijo/json-rpc-notification#readme",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "files": [
+    "LICENSE",
+    "index.js"
+  ]
+}
