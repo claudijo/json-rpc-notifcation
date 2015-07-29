@@ -3,6 +3,10 @@
 Constructor for
 [JSON RPC 2.0 notification objects](http://www.jsonrpc.org/specification#notification).
 
+Also see related packages [json-rpc-response](https://github.com/claudijo/json-rpc-response),
+[json-rpc-request](https://github.com/claudijo/json-rpc-request), and
+[json-rpc-error](https://github.com/claudijo/json-rpc-error)
+
 ## Installation
 
 ```js
